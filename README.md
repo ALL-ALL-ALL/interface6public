@@ -30,7 +30,6 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 Interface prête à l'emploi. L'achat comprend :
 
 - Code source SwiftUI complet
-- Modes clair et sombre
 - Documentation d'intégration
 - Support technique post-achat
 
