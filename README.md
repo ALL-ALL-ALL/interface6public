@@ -8,7 +8,7 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 
 ## Caractéristiques
 
-✅ **Arrière-plan coloré et vibrant** - Mur de briques multicolores créant une atmosphère dynamique  
+✅ **Arrière-plan coloré** - Mur de briques multicolores créant une atmosphère dynamique  
 ✅ **Photo de profil circulaire** - Espace central pour personnaliser l'accueil utilisateur  
 ✅ **Champs de saisie épurés** - Design minimaliste avec icônes intuitives  
 ✅ **Multi-réseaux sociaux** - Connexion via Facebook, Google, LinkedIn et Twitter/X  
