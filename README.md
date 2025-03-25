@@ -12,7 +12,6 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 ✅ **Photo de profil circulaire** - Espace central pour personnaliser l'accueil utilisateur  
 ✅ **Champs de saisie épurés** - Design minimaliste avec icônes intuitives  
 ✅ **Multi-réseaux sociaux** - Connexion via Facebook, Google, LinkedIn et Twitter/X  
-✅ **Mode clair et sombre** - Adaptation automatique au thème de l'appareil  
 ✅ **Hautement personnalisable** - Couleurs, textes et images facilement modifiables  
 ✅ **Compatibilité iOS 15+** - Fonctionne sur tous les appareils récents
 
