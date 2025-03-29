@@ -4,9 +4,6 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 
 <img width="239" alt="SCR-20250329-dfgf" src="https://github.com/user-attachments/assets/7619b707-4bc0-495d-b415-17767cf12a40" />
 
-**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
-
-
 ## Caractéristiques
 
 ✅ **Arrière-plan coloré** - Mur de briques multicolores créant une atmosphère dynamique  
