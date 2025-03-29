@@ -25,10 +25,14 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 
 ## Version disponible
 
-Interface prête à l'emploi. L'achat comprend :
+Interface statique prête à l'emploi. Important: Cette version est purement visuelle - les boutons des réseaux sociaux et le bouton de connexion sont inclus mais sans fonctionnalité active (vous devrez implémenter les actions selon vos besoins).
 
+Besoin d'assistance pour l'implémentation? Nous proposons également des services d'intégration pour rendre votre interface fonctionnelle. Contactez-nous pour un devis personnalisé d'implémentation des actions.
+
+L'achat comprend :
 - Code source SwiftUI complet
-- Documentation d'intégration
+- Asset d'arrière-plan en haute résolution
+- Documentation d'intégration détaillée
 - Support technique post-achat
 
 *Note : Des versions améliorées avec fonctionnalités interactives pourront être proposées ultérieurement. Les acheteurs de la version actuelle bénéficieront de tarifs préférentiels.*
