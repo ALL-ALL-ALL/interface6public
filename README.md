@@ -4,6 +4,7 @@ Une interface de connexion moderne et stylisée pour applications iOS, développ
 
 <img width="274" alt="SCR-20250325-uorz" src="https://github.com/user-attachments/assets/27f94d76-5bbd-4036-beb9-a93c776f76c2" />
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
 
 
 ## Caractéristiques
